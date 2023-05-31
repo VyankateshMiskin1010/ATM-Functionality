@@ -9,10 +9,10 @@ Deposit: Users can deposit money into their account by selecting option 3. They 
 Change PIN Code: Users can change their ATM PIN code by selecting option 4. They need to enter their current PIN code and then enter the new PIN code. The new PIN code is updated, and the user is informed of the change.
 Exit: Users can exit the ATM program by selecting option 5.
 Usage
-Clone or download the repository to your local machine.
-Open the project in your preferred Java development environment.
-Run the ATMproject.java file.
-Follow the on-screen instructions to perform various banking operations.
+1. Clone or download the repository to your local machine.
+2. Open the project in your preferred Java development environment.
+3. Run the ATMproject.java file.
+4. Follow the on-screen instructions to perform various banking operations.
 Dependencies
 This project does not have any external dependencies. It uses standard Java libraries for basic functionality.
 
